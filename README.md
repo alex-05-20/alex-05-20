@@ -1,174 +1,200 @@
-## Hi there, I'm Alex Cabrel Tsapi Koudjou 👋
+## Bonjour, moi c’est Alex Cabrel Tsapi Koudjou 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Data+Engineer+%7C+BI;Turning+data+into+reliable+insights+and+decision+tools;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;ETL%2C+Data+Quality%2C+Dashboards+and+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;ETL+%7C+Data+Quality+%7C+Dashboards+%7C+Analyse+de+donn%C3%A9es;Transformer+les+donn%C3%A9es+en+outils+d%27aide+%C3%A0+la+d%C3%A9cision" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alex-tsapi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/alex-05-20"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/alex-tsapi"><img src="https://img.shields.io/badge/LinkedIn-Me_contacter-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/alex-05-20"><img src="https://img.shields.io/badge/GitHub-Mes_projets-black?style=for-the-badge&logo=github"></a>
   <a href="mailto:koudjoualex2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## À propos de moi
 
-I’m an engineering student at **EPF** specializing in **Data Science and Artificial Intelligence**, currently looking for a **2-year apprenticeship starting in September 2026** in **Data Engineering, Data Analysis & BI, or Data Science**.
+Étudiant en école d’ingénieurs à **l’EPF**, en spécialisation **Data Science & Intelligence Artificielle**, je recherche une **alternance de 2 ans à partir de septembre 2026** en **Data Engineering, Data Analysis / BI ou Data Science**.
 
-I work on transforming raw data into **structured, usable, and decision-ready information**. My experience includes:
-- building and improving **data pipelines**
-- cleaning and consolidating datasets from multiple sources
-- creating **dashboards and KPI tracking tools**
-- applying **machine learning** to detect anomalies and improve business performance
+J’aime travailler sur des sujets concrets où la donnée permet de :
+- **fiabiliser l’information**
+- **automatiser l’analyse**
+- **suivre des KPI**
+- **détecter des anomalies**
+- **aider à la décision**
 
-I enjoy working on projects where data can create a clear operational impact: **better monitoring, better decisions, and more reliable processes**.
-
----
-
-## 🧭 What I’m Looking For
-
-I’m seeking opportunities where I can contribute to:
-- **Data pipeline development**
-- **ETL / ELT workflows**
-- **Data quality and governance**
-- **Dashboarding and reporting**
-- **Business performance analysis**
-- **Industrial, operational, or product data projects**
+J’ai déjà travaillé sur :
+- la **structuration de flux de données**
+- la **consolidation de données issues de plusieurs sources**
+- la **mise en qualité de jeux de données**
+- la **création de tableaux de bord Power BI / Excel**
+- l’**analyse de données industrielles**
+- l’**application de modèles de machine learning** pour la détection d’anomalies
 
 ---
 
-## 💼 Featured Experience
+## Ce que je recherche
 
-### **Data Engineer & BI Analyst — PILINK**
-- Structured and improved a data ecosystem with a focus on **data governance** and **data quality**
-- Consolidated data from multiple information systems to improve reporting consistency
-- Designed **ETL pipelines** and contributed to **data modeling**
-- Implemented **data quality checks** and consistency controls
-- Built **BI dashboards** and monitoring indicators for business teams
-- Contributed to better data traceability through improved metadata and reference management
+Je souhaite rejoindre une équipe où je peux contribuer à des sujets comme :
 
-### **Data Analyst Intern — Saint-Gobain**
-- Worked on an **industrial anomaly detection** project on a glass production line
-- Analyzed **50k+ sensor observations** to identify production drifts
-- Cleaned, prepared, and transformed data for machine learning models
-- Applied **unsupervised models** including **Isolation Forest**, **Autoencoders**, and **Change Point Detection**
-- Performed **time series analysis** on furnace temperature, vibrations, line speed, and thickness
-- Tracked operational KPIs such as **scrap rate** and production defects
-- Contributed to an estimated **10–15% scrap reduction** through earlier anomaly detection
-
-### **Project Team Member — Prepavogt Junior Consulting (PJC)**
-- Worked on school and partner business projects in a team-based environment
-- Organized tasks, planning, and deliverables across project activities
-- Cleaned, structured, and analyzed data using **Python, SQL, and Excel**
-- Created **Power BI / Excel dashboards** to monitor KPIs and communicate results
-- Presented analytical findings and recommendations to stakeholders
+- **développement de pipelines de données**
+- **ETL / préparation et transformation de données**
+- **data quality / contrôle de cohérence**
+- **analyse exploratoire et analyse statistique**
+- **dashboarding et reporting**
+- **machine learning appliqué**
+- **suivi de performance et KPI**
+- **projets data à impact métier ou opérationnel**
 
 ---
 
-## 📂 Projects
+## Expériences mises en avant
 
-### **Student Management System (C)**
-Console-based application to manage students, grades, and average score calculations.
+### Data Engineer & BI Analyst — PILINK
 
-### **Football League Database (SQL)**
-Relational database project to manage teams, matches, and performance statistics.
+- Structuration et amélioration d’un écosystème data avec une approche orientée **gouvernance** et **qualité des données**
+- Consolidation de données provenant de plusieurs systèmes pour améliorer la **cohérence des analyses métiers**
+- Conception de **pipelines ETL** pour fiabiliser et organiser les flux d’information
+- Participation à la **modélisation de données** pour rendre les jeux de données plus exploitables
+- Mise en place de **contrôles de cohérence** et de standards de **Data Quality**
+- Création de **tableaux de bord BI** et d’indicateurs de pilotage pour les équipes métiers
+- Contribution à une meilleure **traçabilité des données** via la structuration des référentiels et métadonnées
 
-### **Personal Finance Tracker (Python)**
-Expense analysis project with statistical summaries and data visualizations to identify spending trends.
+### Data Analyst — Saint-Gobain  
+**Projet : détection d’anomalies sur ligne de production de verre**
+
+- Analyse de **plus de 50 000 observations** issues de capteurs industriels
+- Nettoyage, préparation et transformation de données pour des modèles de **machine learning**
+- Analyse de séries temporelles sur plusieurs variables : **température four, vibrations, vitesse de ligne, épaisseur**
+- Implémentation de modèles non supervisés : **Isolation Forest, Autoencoders, Change Point Detection**
+- Suivi d’indicateurs de performance comme le **taux de rebut** et les **défauts par m²**
+- Contribution à une **détection plus précoce des dérives de production**
+- Résultat estimé : **réduction du rebut de 10 à 15 %**
+
+### Prepavogt Junior Consulting (PJC)
+
+- Participation à des projets réalisés pour l’école et des structures partenaires
+- Organisation du travail en équipe : **répartition des tâches, planning, suivi des livrables**
+- Nettoyage, structuration et analyse de données avec **Python, SQL et Excel**
+- Création de **dashboards Power BI / Excel** pour visualiser les résultats et suivre les KPI
+- Présentation des analyses et restitution claire des résultats aux équipes projet
+- Proposition de pistes d’amélioration à partir des données analysées
 
 ---
 
-## 🌱 Currently Learning
+## Projets
 
-- Advanced **data engineering workflows**
-- Stronger **SQL and relational modeling**
-- Applied **machine learning for anomaly detection and predictive analytics**
-- Better dashboard design for **business decision-making**
+### Student Management System (C)
+Application console permettant de gérer des étudiants, leurs notes et le calcul automatisé des moyennes.
+
+### Football League Database (SQL)
+Base de données relationnelle pour gérer les équipes, les matchs et les statistiques d’un championnat.
+
+### Personal Finance Tracker (Python)
+Projet d’analyse de dépenses personnelles avec statistiques descriptives et visualisation des tendances.
 
 ---
 
-## 🛠️ Technical Skillset
+## Ce que vous trouverez sur mon GitHub
 
-### **Programming**
+Sur ce GitHub, je partage des projets autour de :
+
+- **l’analyse de données**
+- **la business intelligence**
+- **la data science appliquée**
+- **le machine learning**
+- **SQL et modélisation de bases de données**
+- **Power BI et visualisation**
+- **préparation, nettoyage et structuration des données**
+
+L’objectif est de montrer des projets concrets, lisibles et utiles, avec une vraie logique métier.
+
+---
+
+## Compétences techniques
+
+### Langages & analyse de données
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/C-Intermediate-A8B9CC?style=flat&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/Python-Analyse%20de%20donn%C3%A9es-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-Requ%C3%AAtage%20et%20mod%C3%A9lisation-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/R-Analyse%20statistique-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/C-Programmation-A8B9CC?style=flat&logo=c&logoColor=black" alt="C">
 </p>
 
-### **Data Analysis & BI**
+### Data Analysis / BI
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Matplotlib-Data%20Viz-orange?style=flat" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-4C78A8?style=flat" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-Analyse%20et%20reporting-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange?style=flat" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-Visualisation-4C78A8?style=flat" alt="Seaborn">
 </p>
 
-### **Data & Databases**
+### Data Engineering / Bases de données
 <p>
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/ETL-Data%20Pipeline-blue?style=flat" alt="ETL">
-  <img src="https://img.shields.io/badge/Data%20Quality-Quality%20Checks-success?style=flat" alt="Data Quality">
-  <img src="https://img.shields.io/badge/Data%20Modeling-Structured%20Data-informational?style=flat" alt="Data Modeling">
+  <img src="https://img.shields.io/badge/MySQL-Base%20de%20donn%C3%A9es-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/ETL-Pipeline%20de%20donn%C3%A9es-blue?style=flat" alt="ETL">
+  <img src="https://img.shields.io/badge/Data%20Quality-Contr%C3%B4les%20de%20coh%C3%A9rence-success?style=flat" alt="Data Quality">
+  <img src="https://img.shields.io/badge/Data%20Modeling-Structuration%20des%20donn%C3%A9es-informational?style=flat" alt="Data Modeling">
 </p>
 
-### **Machine Learning & Analytics**
+### Data Science / Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Applied-red?style=flat" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Anomaly%20Detection-Industrial%20Use%20Case-critical?style=flat" alt="Anomaly Detection">
-  <img src="https://img.shields.io/badge/Time%20Series-Analysis-blueviolet?style=flat" alt="Time Series">
-  <img src="https://img.shields.io/badge/KPI%20Tracking-Business%20Monitoring-brightgreen?style=flat" alt="KPI Tracking">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Projets%20appliqu%C3%A9s-red?style=flat" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-Industrie-critical?style=flat" alt="Anomaly Detection">
+  <img src="https://img.shields.io/badge/Time%20Series-Analyse-blueviolet?style=flat" alt="Time Series">
+  <img src="https://img.shields.io/badge/KPI%20Tracking-Pilotage-brightgreen?style=flat" alt="KPI Tracking">
 </p>
 
-### **Tools**
+### Outils
 <p>
-  <img src="https://img.shields.io/badge/GitHub-Version%20Control-black?style=flat&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Excel%20VBA-Automation-217346?style=flat" alt="Excel VBA">
+  <img src="https://img.shields.io/badge/GitHub-Versioning-black?style=flat&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-D%C3%A9veloppement-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Excel%20VBA-Automatisation-217346?style=flat" alt="Excel VBA">
 </p>
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 - IBM Data Science Professional Certificate
 - Microsoft Power BI Data Analyst
 - Intermediate Python — DataCamp
-- CS50: Introduction to Computer Science
-- CS50: Introduction to Programming with Python
-- CS50: Introduction to Databases with SQL
-- CS50: Introduction to Artificial Intelligence with Python
+- CS50 Introduction to Computer Science
+- CS50 Introduction to Programming with Python
+- CS50 Introduction to Databases with SQL
+- CS50 Introduction to Artificial Intelligence with Python
 - Excel Skills for Business
 - Learning AI through Visualization
 
 ---
 
-## 🌍 Languages
+## Langues
 
-- **French:** Native
-- **English:** C1 — TOEIC 965/990
-- **Spanish:** A1
-
----
-
-## 📫 Contact
-
-- **Email:** koudjoualex2005@gmail.com
-- **Location:** France
-- **Mobility:** Open to opportunities across France
-- **Driving License:** Category B
+- **Français** : langue maternelle
+- **Anglais** : C1 — TOEIC 965/990
+- **Espagnol** : A1
 
 ---
 
-## ⚡ Portfolio Goal
+## Contact
 
-This GitHub portfolio showcases my work in:
-- **Data analysis**
-- **Business intelligence**
-- **Data engineering fundamentals**
-- **Machine learning projects**
-- **Practical SQL / Python / dashboarding use cases**
+- **Email** : koudjoualex2005@gmail.com  
+- **LinkedIn** : [alex-tsapi](https://linkedin.com/in/alex-tsapi)  
+- **GitHub** : [alex-05-20](https://github.com/alex-05-20)  
+- **Mobilité** : mobile dans toute la France  
+- **Permis** : B
 
-Thanks for visiting my profile.
+---
+
+## Objectif de ce portfolio
+
+Mon objectif est de construire un portfolio clair et solide pour montrer que je suis déjà capable de travailler sur :
+
+- des **problèmes data concrets**
+- des **projets orientés métier**
+- des **cas d’usage data science**
+- des **dashboards utiles à la décision**
+- des **pipelines de données simples et fiables**
+- des **analyses exploitables par une équipe opérationnelle**
+
+Merci pour votre visite.
