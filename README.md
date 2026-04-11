@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I’m an engineering student at **EPF** specializing in **Data Science**, currently looking for a **2-year apprenticeship starting in September 2026** in **Data Engineering, Data Analysis, or Business Intelligence**.
+I’m an engineering student at **EPF** specializing in **Data Science and Artificial Intelligence**, currently looking for a **2-year apprenticeship starting in September 2026** in **Data Engineering, Data Analysis & BI, or Data Science**.
 
 I work on transforming raw data into **structured, usable, and decision-ready information**. My experience includes:
 - building and improving **data pipelines**
