@@ -17,19 +17,19 @@
 Étudiant en école d’ingénieurs à **l’EPF**, en spécialisation **Data Science & Intelligence Artificielle**, je recherche une **alternance de 2 ans à partir de septembre 2026** en **Data Engineering, Data Analysis / BI ou Data Science**.
 
 J’aime travailler sur des sujets concrets où la donnée permet de :
-- **fiabiliser l’information**
-- **automatiser l’analyse**
-- **suivre des KPI**
-- **détecter des anomalies**
-- **aider à la décision**
+- **Fiabiliser l’information**
+- **Automatiser l’analyse**
+- **Suivre des KPI**
+- **Détecter des anomalies**
+- **Aider à la décision**
 
 J’ai déjà travaillé sur :
-- la **structuration de flux de données**
-- la **consolidation de données issues de plusieurs sources**
-- la **mise en qualité de jeux de données**
-- la **création de tableaux de bord Power BI / Excel**
-- l’**analyse de données industrielles**
-- l’**application de modèles de machine learning** pour la détection d’anomalies
+- La **structuration de flux de données**
+- La **consolidation de données issues de plusieurs sources**
+- La **mise en qualité de jeux de données**
+- La **création de tableaux de bord Power BI / Excel**
+- L’**analyse de données industrielles**
+- L’**application de modèles de machine learning** pour la détection d’anomalies
 
 ---
 
@@ -37,14 +37,14 @@ J’ai déjà travaillé sur :
 
 Je souhaite rejoindre une équipe où je peux contribuer à des sujets comme :
 
-- **développement de pipelines de données**
+- **Développement de pipelines de données**
 - **ETL / préparation et transformation de données**
-- **data quality / contrôle de cohérence**
-- **analyse exploratoire et analyse statistique**
-- **dashboarding et reporting**
-- **machine learning appliqué**
-- **suivi de performance et KPI**
-- **projets data à impact métier ou opérationnel**
+- **Data quality / contrôle de cohérence**
+- **Analyse exploratoire et analyse statistique**
+- **Dashboarding et reporting**
+- **Machine learning appliqué**
+- **Suivi de performance et KPI**
+- **Projets data à impact métier ou opérationnel**
 
 ---
 
