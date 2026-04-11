@@ -48,40 +48,6 @@ Je souhaite rejoindre une équipe où je peux contribuer à des sujets comme :
 
 ---
 
-## Expériences mises en avant
-
-### Data Engineer & BI Analyst — PILINK
-
-- Structuration et amélioration d’un écosystème data avec une approche orientée **gouvernance** et **qualité des données**
-- Consolidation de données provenant de plusieurs systèmes pour améliorer la **cohérence des analyses métiers**
-- Conception de **pipelines ETL** pour fiabiliser et organiser les flux d’information
-- Participation à la **modélisation de données** pour rendre les jeux de données plus exploitables
-- Mise en place de **contrôles de cohérence** et de standards de **Data Quality**
-- Création de **tableaux de bord BI** et d’indicateurs de pilotage pour les équipes métiers
-- Contribution à une meilleure **traçabilité des données** via la structuration des référentiels et métadonnées
-
-### Data Analyst — Saint-Gobain  
-**Projet : détection d’anomalies sur ligne de production de verre**
-
-- Analyse de **plus de 50 000 observations** issues de capteurs industriels
-- Nettoyage, préparation et transformation de données pour des modèles de **machine learning**
-- Analyse de séries temporelles sur plusieurs variables : **température four, vibrations, vitesse de ligne, épaisseur**
-- Implémentation de modèles non supervisés : **Isolation Forest, Autoencoders, Change Point Detection**
-- Suivi d’indicateurs de performance comme le **taux de rebut** et les **défauts par m²**
-- Contribution à une **détection plus précoce des dérives de production**
-- Résultat estimé : **réduction du rebut de 10 à 15 %**
-
-### Prepavogt Junior Consulting (PJC)
-
-- Participation à des projets réalisés pour l’école et des structures partenaires
-- Organisation du travail en équipe : **répartition des tâches, planning, suivi des livrables**
-- Nettoyage, structuration et analyse de données avec **Python, SQL et Excel**
-- Création de **dashboards Power BI / Excel** pour visualiser les résultats et suivre les KPI
-- Présentation des analyses et restitution claire des résultats aux équipes projet
-- Proposition de pistes d’amélioration à partir des données analysées
-
----
-
 ## Projets
 
 ### Student Management System (C)
