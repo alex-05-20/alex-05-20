@@ -1,4 +1,4 @@
-## Bonjour, moi c’est Alex Cabrel Tsapi Koudjou 👋
+## Bonjour, moi c’est Alex Cabrel TSAPI KOUDJOU
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;ETL+%7C+Data+Quality+%7C+Dashboards+%7C+Analyse+de+donn%C3%A9es;Transformer+les+donn%C3%A9es+en+outils+d%27aide+%C3%A0+la+d%C3%A9cision" alt="Typing SVG" />
@@ -93,6 +93,9 @@ Base de données relationnelle pour gérer les équipes, les matchs et les stati
 ### Personal Finance Tracker (Python)
 Projet d’analyse de dépenses personnelles avec statistiques descriptives et visualisation des tendances.
 
+###  Gestion d’activité d’artisans (Excel/VBA & MySQL) 
+Tableau de bord automatisé avec suivi des KPI commerciaux et visualisation des tendances.
+
 ---
 
 ## Ce que vous trouverez sur mon GitHub
@@ -185,16 +188,5 @@ L’objectif est de montrer des projets concrets, lisibles et utiles, avec une v
 - **Permis** : B
 
 ---
-
-## Objectif de ce portfolio
-
-Mon objectif est de construire un portfolio clair et solide pour montrer que je suis déjà capable de travailler sur :
-
-- des **problèmes data concrets**
-- des **projets orientés métier**
-- des **cas d’usage data science**
-- des **dashboards utiles à la décision**
-- des **pipelines de données simples et fiables**
-- des **analyses exploitables par une équipe opérationnelle**
 
 Merci pour votre visite.
