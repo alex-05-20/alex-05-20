@@ -98,22 +98,6 @@ Tableau de bord automatisé avec suivi des KPI commerciaux et visualisation des 
 
 ---
 
-## Ce que vous trouverez sur mon GitHub
-
-Sur ce GitHub, je partage des projets autour de :
-
-- **l’analyse de données**
-- **la business intelligence**
-- **la data science appliquée**
-- **le machine learning**
-- **SQL et modélisation de bases de données**
-- **Power BI et visualisation**
-- **préparation, nettoyage et structuration des données**
-
-L’objectif est de montrer des projets concrets, lisibles et utiles, avec une vraie logique métier.
-
----
-
 ## Compétences techniques
 
 ### Langages & analyse de données
