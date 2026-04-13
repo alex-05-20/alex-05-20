@@ -1,35 +1,41 @@
 ## Bonjour, moi c’est Alex Cabrel TSAPI KOUDJOU
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;ETL+%7C+Data+Quality+%7C+Dashboards+%7C+Analyse+de+donn%C3%A9es;Transformer+les+donn%C3%A9es+en+outils+d%27aide+%C3%A0+la+d%C3%A9cision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=950&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Scientist;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;ETL+%7C+Data+Quality+%7C+Dashboards+%7C+Data+Visualization;Transformer+les+donn%C3%A9es+en+outils+d%27aide+%C3%A0+la+d%C3%A9cision" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alex-tsapi"><img src="https://img.shields.io/badge/LinkedIn-Me_contacter-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/alex-05-20"><img src="https://img.shields.io/badge/GitHub-Mes_projets-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:koudjoualex2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/alex-tsapi">
+    <img src="https://img.shields.io/badge/LinkedIn-Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/alex-05-20">
+    <img src="https://img.shields.io/badge/GitHub-Mes_projets-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:koudjoualex2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-34A853?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## À propos de moi
 
-Étudiant en école d’ingénieurs à **l’EPF**, en spécialisation **Data Science & Intelligence Artificielle**, je recherche une **alternance de 2 ans à partir de septembre 2026** en **Data Engineering, Data Analysis / BI ou Data Science**.
+Étudiant en école d’ingénieurs à **l’EPF**, en spécialisation **Data & Intelligence Artificielle**, je recherche une **alternance de 2 ans à partir de septembre 2026** en **Data Engineering, Data Analysis / BI ou Data Science**.
 
-J’aime travailler sur des sujets concrets où la donnée permet de :
-- **Fiabiliser l’information**
-- **Automatiser l’analyse**
-- **Suivre des KPI**
-- **Détecter des anomalies**
-- **Aider à la décision**
+J’aime travailler sur des problématiques concrètes où la donnée permet de :
+- **fiabiliser l’information**
+- **structurer et automatiser des traitements**
+- **suivre des KPI**
+- **détecter des anomalies**
+- **faciliter la prise de décision**
 
-J’ai déjà travaillé sur :
-- La **structuration de flux de données**
-- La **consolidation de données issues de plusieurs sources**
-- La **mise en qualité de jeux de données**
-- La **création de tableaux de bord Power BI / Excel**
-- L’**analyse de données industrielles**
-- L’**application de modèles de machine learning** pour la détection d’anomalies
+Au fil de mes expériences académiques et projets, j’ai développé des compétences en :
+- **analyse de données**
+- **SQL et modélisation de bases de données**
+- **Python pour le traitement et l’automatisation**
+- **Power BI pour le reporting et la visualisation**
+- **data quality et structuration de jeux de données**
+- **machine learning appliqué à des cas concrets**
 
 ---
 
@@ -39,10 +45,10 @@ Je souhaite rejoindre une équipe où je peux contribuer à des sujets comme :
 
 - **Développement de pipelines de données**
 - **ETL / préparation et transformation de données**
-- **Data quality / contrôle de cohérence**
+- **Data Quality / contrôles de cohérence**
 - **Analyse exploratoire et analyse statistique**
 - **Dashboarding et reporting**
-- **Machine learning appliqué**
+- **Machine Learning appliqué**
 - **Suivi de performance et KPI**
 - **Projets data à impact métier ou opérationnel**
 
@@ -50,17 +56,26 @@ Je souhaite rejoindre une équipe où je peux contribuer à des sujets comme :
 
 ## Projets
 
-### Student Management System (C)
-Application console permettant de gérer des étudiants, leurs notes et le calcul automatisé des moyennes.
+### SpaceX Launch Success Prediction
+Projet complet de **data science** visant à prédire le succès des lancements SpaceX à partir de données collectées via **API** et **web scraping**.  
+Nettoyage des données, analyse **SQL**, visualisation et entraînement de modèles de **machine learning** (**régression logistique, SVM, arbre de décision, KNN**).  
+**Résultat : ~83 % de précision** sur la prédiction du succès des lancements.
+
+### Gestion d’activité d’artisans (Excel/VBA & MySQL)
+Développement d’un **tableau de bord automatisé** pour suivre l’activité commerciale d’artisans.  
+Le projet permet de **centraliser les données**, **suivre les KPI**, **visualiser les tendances** et **automatiser certains traitements** grâce à **Excel/VBA** et **MySQL**.
 
 ### Football League Database (SQL)
-Base de données relationnelle pour gérer les équipes, les matchs et les statistiques d’un championnat.
+Conception d’une **base de données relationnelle** pour gérer les équipes, les matchs et les statistiques d’un championnat.  
+Création du modèle de données, structuration des relations entre tables et développement de **requêtes SQL** pour l’analyse des performances.
 
 ### Personal Finance Tracker (Python)
-Projet d’analyse de dépenses personnelles avec statistiques descriptives et visualisation des tendances.
+Projet d’**analyse de dépenses personnelles** permettant de structurer, catégoriser et analyser des transactions financières.  
+Production de **statistiques descriptives** et de **visualisations** pour identifier les tendances de dépenses et améliorer le pilotage budgétaire.
 
-###  Gestion d’activité d’artisans (Excel/VBA & MySQL) 
-Tableau de bord automatisé avec suivi des KPI commerciaux et visualisation des tendances.
+### Student Management System (C)
+Application console permettant de gérer des étudiants, leurs notes et le calcul automatisé des moyennes.  
+Projet centré sur la **structuration des données**, la **gestion logique des informations** et l’**automatisation de traitements simples**.
 
 ---
 
@@ -100,7 +115,7 @@ Tableau de bord automatisé avec suivi des KPI commerciaux et visualisation des 
 
 ### Outils
 <p>
-  <img src="https://img.shields.io/badge/GitHub-Versioning-black?style=flat&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Versioning-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-D%C3%A9veloppement-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Excel%20VBA-Automatisation-217346?style=flat" alt="Excel VBA">
 </p>
@@ -139,4 +154,5 @@ Tableau de bord automatisé avec suivi des KPI commerciaux et visualisation des 
 
 ---
 
-Merci pour votre visite.
+## Merci pour votre visite
+Je suis toujours motivé à échanger autour d’une opportunité en **data engineering**, **data analysis / BI** ou **data science**.
